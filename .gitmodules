@@ -281,3 +281,6 @@
 [submodule "assets/syntaxes/02_Extra/Gomod"]
 	path = assets/syntaxes/02_Extra/Gomod
 	url = https://github.com/mitranim/sublime-gomod
+[submodule "assets/syntaxes/02_Extra/Gleam"]
+	path = assets/syntaxes/02_Extra/Gleam
+	url = https://github.com/digitalcora/sublime-text-gleam
